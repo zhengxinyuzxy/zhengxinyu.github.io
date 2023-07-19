@@ -1,7 +1,7 @@
 module.exports = {
   title: "mellow的博客",
   description: "这是描述",
-  base: '/',
+  base: '/blogs/',
   theme: "reco",
   locales: {
     "/": {
@@ -9,7 +9,6 @@ module.exports = {
     },
   },
   themeConfig: {
-    subSidebar: "auto",
     logo: "/avatar.png",
     authorAvatar: "/avatar.png",
     type: "blog",
@@ -23,6 +22,7 @@ module.exports = {
         ],
       },
     ],
+    subSidebar: "auto",
     sidebar: [
       {
         title: "欢迎学习",
