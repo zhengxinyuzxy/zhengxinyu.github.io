@@ -1,7 +1,7 @@
 module.exports = {
   title: "mellow的博客",
   description: "这是描述",
-  base: '/blogs/',
+  base: '/',
   theme: "reco",
   locales: {
     "/": {
