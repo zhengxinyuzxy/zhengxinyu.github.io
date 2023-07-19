@@ -1,7 +1,7 @@
 module.exports = {
   title: "mellow的博客",
   description: "这是描述",
-  base: '/',
+  base: '/zhengxinyu.github.io/',
   theme: "reco",
   locales: {
     "/": {
